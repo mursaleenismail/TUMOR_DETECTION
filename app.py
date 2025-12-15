@@ -16,7 +16,7 @@ st.set_page_config(
 
 st.markdown(
     """
-    <h1 style='text-align: center; color: #4B0082;'>Brain Tumor Detection System (AI Powered)</h1>
+    <h1 style='text-align: center; color: #FF0000;'>Brain Tumor Detection System (AI Powered)</h1>
     <p style='text-align: center; color: #6A5ACD;'>Upload MRI images to detect brain tumor with confidence score.</p>
     """,
     unsafe_allow_html=True
